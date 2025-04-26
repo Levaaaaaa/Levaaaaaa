@@ -51,7 +51,7 @@ The others projects you can see in my profile.
 
 ### My Github History!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Levaaaaaa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Levaaaaaa/Levaaaaaa/blob/output/github-contribution-grid-snake.svg)
 
 ## Thank you for stopping by!
 <!--
