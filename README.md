@@ -2,7 +2,7 @@
 ### I'm a beginner Java backend developer. I'm currently learning at Belarussian State University, FAMCS.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,docker,kubernetes,postgresql,mysql,rabbitmq,git,linux,nginx,cpp,cs,python,figma" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,docker,kubernetes,postgresql,mysql,rabbitmq,python,git,gradle,maven,linux,nginx,cpp,cs,qt,figma" />
 </p>
 
 ### My stack:
