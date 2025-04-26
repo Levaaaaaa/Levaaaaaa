@@ -41,13 +41,13 @@
     - use PostgreSQL
     - build tool - Maven
     - use Spring Security and JWT authentication
+    - started by Docker Compose
 
 The others projects you can see in my profile.
       
 ### How to contact me:
 - [Linkedin](https://www.linkedin.com/in/leu-snezhko/)
 - Telegram: @Lanivv
-- 
 
 ### My Github History!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Levaaaaaa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
